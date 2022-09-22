@@ -8,3 +8,4 @@ Summary:  Every year, soybean yields are reduced by numerous soybean diseases, i
 A USPTO patent was granted to Iowa State University for this invention: US Patent No. 10,900,877 issued on January 26, 2021, 
 Patent Title: Methods, Apparatus, and Systems to Extract and Quantify Minute Objects From Soil or Feces, Including Plant-Parasitic Nematode Pests and Their Eggs in Soil.
 https://patents.google.com/patent/US10900877B1/en
+News articles: https://eurekamag.com/research/072/479/072479118.php
